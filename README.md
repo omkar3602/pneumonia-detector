@@ -1,1 +1,1 @@
-"# pneumonia-detector" 
+# pneumonia-detector
